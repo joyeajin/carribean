@@ -49,7 +49,7 @@ body{
 }
 .language input[type=checkbox]+label{
     padding-left: 25px;
-    background-image: url('../img/btn_more_down.gif');
+    background-image: url('./img/btn_more_down.gif');
     background-repeat: no-repeat;
 }
 .language input[type=checkbox]+label>span{
@@ -58,7 +58,7 @@ body{
     font-size: 12px;
 }
 .language input[type=checkbox]:checked+label{
-    background-image: url('../img/bt_up.gif');
+    background-image: url('./img/bt_up.gif');
 }
 
 .language .lang{
